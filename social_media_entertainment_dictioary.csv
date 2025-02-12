@@ -1,0 +1,41 @@
+Column Name,Description
+User ID,Unique identifier for each user.
+Age,Age of the user in years.
+Gender,"Gender of the user (e.g., Male, Female, Other)."
+Country,Country of residence of the user.
+Daily Social Media Time (hrs),Average time spent daily on social media platforms in hours.
+Daily Entertainment Time (hrs),Average time spent daily on entertainment activities in hours.
+Social Media Platforms Used,List of social media platforms frequently used by the user.
+Primary Platform,Primary social media platform the user spends most time on.
+Daily Messaging Time (hrs),Average time spent daily on messaging applications in hours.
+Daily Video Content Time (hrs),Average time spent daily watching video content in hours.
+Daily Gaming Time (hrs),Average time spent daily playing games in hours.
+Occupation,User’s occupation or profession.
+Marital Status,"Marital status of the user (e.g., Single, Married, Divorced)."
+Monthly Income (USD),Monthly income of the user in USD.
+Device Type,"Type of device most frequently used by the user (e.g., Smartphone, Laptop)."
+Internet Speed (Mbps),Internet speed experienced by the user in Mbps.
+Subscription Platforms,"List of subscription-based platforms used by the user (e.g., Netflix, Spotify)."
+Average Sleep Time (hrs),Average hours of sleep per day.
+Physical Activity Time (hrs),Average time spent on physical activities daily in hours.
+Reading Time (hrs),Average time spent reading daily in hours.
+Work/Study Time (hrs),Average time spent on work or study daily in hours.
+Screen Time (hrs),Total screen time (all devices) per day in hours.
+Notifications Received Daily,Total number of notifications received daily.
+Daily Music Listening Time (hrs),Average time spent listening to music daily in hours.
+Preferred Content Type,"Type of content the user prefers (e.g., Educational, Entertaining)."
+Primary Social Media Goal,"Primary reason for using social media (e.g., Networking, Entertainment)."
+Preferred Entertainment Platform,"Preferred platform for entertainment (e.g., YouTube, Netflix)."
+Time Spent in Online Communities (hrs),Average time spent daily in online communities in hours.
+Social Media Fatigue Level (scale 1-10),Self-reported level of social media fatigue on a scale of 1 to 10.
+News Consumption Time (hrs),Average time spent consuming news daily in hours.
+Ad Interaction Count,Number of advertisements interacted with daily.
+Time on Educational Platforms (hrs),Average time spent daily on educational platforms in hours.
+Parental Status,Whether the user has children (Yes/No).
+Tech Savviness Level (scale 1-10),Self-reported level of tech savviness on a scale of 1 to 10.
+Preferred Device for Entertainment,"Device preferred for consuming entertainment content (e.g., TV, Smartphone)."
+Data Plan Used,Type of data plan the user subscribes to.
+Digital Well-being Awareness,Awareness of digital well-being practices (Yes/No).
+Sleep Quality (scale 1-10),Self-reported sleep quality on a scale of 1 to 10.
+Social Isolation Feeling (scale 1-10),Self-reported feeling of social isolation on a scale of 1 to 10.
+Monthly Expenditure on Entertainment (USD),Amount spent monthly on entertainment activities in USD.
