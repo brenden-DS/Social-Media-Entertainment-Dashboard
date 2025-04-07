@@ -9,7 +9,7 @@ This dashboard is designed to analyze user behavior, digital habits, and consump
 - **Rows**: 300,000
 
 ### Tools Utilized 🛠️
-- **Data Analysis**: Power BI, DAX, Power Query
+- **Data Analysis**: Power BI for interactive dashboard, DAX- for complex measures to enhance analysis, Power Query- for data cleaning and data formatting
 - **UI/UX Design**: Canva for dashboard background
 
 ### Key Insights 🔍
