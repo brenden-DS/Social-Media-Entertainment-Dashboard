@@ -10,7 +10,7 @@ This dashboard is designed to analyze user behavior, digital habits, and consump
 
 ### Tools Utilized 🛠️
 - **Data Analysis**: Power BI, DAX, Power Query
-- **UI/UX Design**: Canva
+- **UI/UX Design**: Canva for dashboard background
 
 ### Key Insights 🔍
 - Users average **6.99 hours** daily on screens, with **4.25 hours** dedicated to social media. 📱
