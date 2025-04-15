@@ -2,7 +2,7 @@
 
 ## Dashboard Overview 📊
 
-This dashboard is designed to analyze user behavior, digital habits, and consumption patterns, examining their effects on productivity, lifestyle, and time management across various demographics.
+The study analyzes user habits, focusing on screen time, social media usage, entertainment platform preferences, and spending behaviors. It explores correlations between internet speed, notification frequency, and user fatigue, while also considering the impact of age, income, and physical activity on digital consumption.
 
 ### Data Structure 📋
 - **Columns**: 40
@@ -14,28 +14,37 @@ This dashboard is designed to analyze user behavior, digital habits, and consump
 
 ### Visuals:
 ![Overview](https://github.com/brenden-DS/Social-Media-Entertainment-Dashboard/blob/main/Social%20med%20overview.PNG)
+![Demographics](https://github.com/brenden-DS/Social-Media-Entertainment-Dashboard/blob/main/SM-demographics.PNG)
 
 ### Key Insights 🔍
-- Users average **6.99 hours** daily on screens, with **4.25 hours** dedicated to social media. 📱
-- Entertainment spending averages **$249.67** per month, varying by income level. 💰
-- Screen time increases when using PCs and tablets. 💻📱
-- Higher internet speeds correlate with increased video consumption. 🚀
-- Younger individuals prioritize entertainment over work/study ⚖️
-- **Netflix** is the most favored entertainment platform, with users spending an average of **$251.37**, significantly more time than any  other platforms; **Amazon Prime** receives the least attention. 🎬
-- There is a positive correlation between the number of notifications received and social media fatigue levels. 🔔😩
-- Users primarily spend more time on social media platforms like **YouTube** and **Facebook**. 📺
-- Platforms like **TikTok, Twitter, Facebook, YouTube,** and **Instagram** exhibit nearly equal user engagement. 🌐
-- Age groups show distinct preferences based on time spend on plaforms: 
-  - **13-23**: Instagram 📸
-  - **24-34**: Facebook 📘
-  - **35-45**: Twitter 🐦
-  - **46-56 & 47-65**: YouTube 🎥
-- Users tend to spend more time on news for their preferred content. 📰
-- Higher-income users typically have multiple subscriptions, while lower-income users limit entertainment expenses. 💳
-- Regular physical activity enhances sleep quality. 🏃‍♂️💤
+
+- Users average 6.99 hours of daily screen time, with 4.25 hours spent on social media platforms like YouTube and Facebook, indicating a strong preference for these platforms.  
+
+- Entertainment spending averages $249.67 monthly, with higher-income users maintaining multiple subscriptions, while lower-income users spend less.  
+
+- Netflix dominates as the preferred entertainment platform, with users spending $251.37 on average, compared to minimal engagement with Amazon Prime.  
+
+- Age-based preferences show distinct trends: ages 13-23 favor Instagram, 24-34 prefer Facebook, 35-45 lean toward Twitter, and 46-65 gravitate to YouTube.  
+
+- Increased notifications correlate with higher social media fatigue, and faster internet speeds drive greater video consumption.  
+
+- Regular physical activity is linked to improved sleep quality, suggesting a balance between digital and physical habits.
 
  
 ### Recommendations 💡
-1. **Marketing Strategy**: Advertisers should target preferred platforms for each age group .
+1. Platform Optimization: Social media platforms like TikTok, Twitter, and Instagram, which show equal engagement, should tailor content for specific age groups (e.g., Instagram for 13-23, Twitter for 35-45) to maximize user retention.  
+
+2. Fatigue Mitigation: Introduce notification management features to reduce social media fatigue, especially for users receiving high notification volumes.  
+
+3. Subscription Models: Entertainment platforms like Amazon Prime could offer tiered pricing or bundled subscriptions to attract lower-income users, while Netflix can leverage its dominance by enhancing personalized content recommendations.  
+
+4. Balanced Usage Campaigns: Promote awareness campaigns encouraging users to balance screen time with physical activity, highlighting the link between exercise and better sleep quality.  
+
+5. Content Strategy: News platforms should continue prioritizing user-preferred content to maintain engagement, while video platforms can invest in infrastructure to support faster internet speeds, catering to the trend of increased video consumption.
+
+### Conclusion
+- This analysis highlights significant trends in digital consumption, showing heavy social media usage, platform preferences by age, and the impact of notifications on fatigue. It underscores the need for balanced digital habits, as physical activity improves sleep quality. These insights pave the way for tailored platform strategies and healthier user experiences.
+
+
 
 
