@@ -12,6 +12,9 @@ This dashboard is designed to analyze user behavior, digital habits, and consump
 - **Data Analysis**: Power BI for interactive dashboard, DAX- for complex measures to enhance analysis, Power Query- for data cleaning and data formatting
 - **UI/UX Design**: Canva for dashboard background
 
+### Visuals:
+![Overview](https://github.com/brenden-DS/Social-Media-Entertainment-Dashboard/blob/main/Social%20med%20overview.PNG)
+
 ### Key Insights 🔍
 - Users average **6.99 hours** daily on screens, with **4.25 hours** dedicated to social media. 📱
 - Entertainment spending averages **$249.67** per month, varying by income level. 💰
